@@ -1,5 +1,5 @@
 # WebServiceSOAP
-Web Service Berbasis SOAP (Simple Object Arstektur Protocol) hanya memiliki fitur kalkulator sederhana.
+Web Service Berbasis SOAP (Simple Object Arstektur Protocol) dengan fitur kalkulator sederhana.
 
 ## Web Server 
 - [x] Payara Server
